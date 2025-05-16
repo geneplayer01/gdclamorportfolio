@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav a{
+	font-family: Dosis;
+	font-weight: 700 !important;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0%;
+
+	color: #004E84 !important;
+}
+#landing{
+	font-family: Dosis;
+	font-weight: 700 !important;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0%;
+
+	color: #004E84 !important;
+}
+#projects{
+	font-family: Dosis;
+	font-weight: 700 !important;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0%;
+
+	color: #004E84 !important;
+}
+#tools{
+	font-family: Dosis;
+	font-weight: 700 !important;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0%;
+
+	color: #004E84 !important;
+}
+#contact{
+	font-family: Dosis;
+	font-weight: 700 !important;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0%;
+
+	color: #004E84 !important;
+}
